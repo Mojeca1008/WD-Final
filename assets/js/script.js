@@ -8,5 +8,5 @@ document.addEventListener('DOMContentLoaded', () => {
         } else {
             header.style.backgroundColor = '#333';
         }
-    });
+    });   
 });
